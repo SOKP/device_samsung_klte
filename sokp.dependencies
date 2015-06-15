@@ -1,6 +1,37 @@
 [
   {
-    "repository": "android_device_samsung_klte-common",
-    "target_path": "device/samsung/klte-common"
+    "repository": "device_samsung_klte-common",
+    "target_path": "device/samsung/klte-common",
+    "branch":      "sokp-l5.1"
+  },
+  {
+    "repository": "device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "branch": "sokp-l5.1"
+  },
+  {
+    "repository": "device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch": "sokp-l5.1"
+  },
+  {
+    "repository": "device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch": "sokp-l5.1"
+  },
+  {
+    "repository": "hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch": "sokp-l5.1"
+  },
+  {
+    "repository": "kernel_samsung_klte",
+    "target_path": "kernel/samsung/klte",
+    "branch":      "sokp-l5.1"
+  },
+  {
+    "repository":  "proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch":      "sokp-l5.1"
   }
 ]
